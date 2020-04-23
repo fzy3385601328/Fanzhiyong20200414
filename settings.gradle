@@ -1,0 +1,2 @@
+include ':app', ':two-dimensioncode1', ':myappweekdemo1', ':myweekonedemo', ':myfan20200420', ':myweek1demo', ':greendao1', ':myretroift'
+rootProject.name='Fanzhiyong20200414'
